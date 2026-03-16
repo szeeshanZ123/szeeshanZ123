@@ -60,8 +60,7 @@ Interactive dashboard for business insights.
 ---
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/szeeshanZ123/szeeshanZ123/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/szeeshanZ123/szeeshanZ123/blob/output/github-contribution-grid-snake.svg)
 ## 📊 GitHub Stats
 
 <p align="center">
