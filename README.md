@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Zeeshan+Shaikh;Web+Development+Enthusiast;Data+Analyst+Enthusiast;Learning+Something+New+Everyday" />
+</p>
 <h1 align="center">Hi 👋, I'm Zeeshan Shaikh</h1>
 <h3 align="center">💻 Web Development Enthusiast | 📊 Data Analyst Enthusiast</h3>
 
