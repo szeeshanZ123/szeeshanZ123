@@ -68,6 +68,9 @@ Interactive dashboard for business insights.
 </p>
 
 ---
+## 📈 GitHub Activity
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=szeeshanZ123&theme=react-dark)
 
 ## 🌐 Connect With Me
 
