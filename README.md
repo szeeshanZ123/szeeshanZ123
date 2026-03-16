@@ -70,7 +70,9 @@ Interactive dashboard for business insights.
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=szeeshanZ123&theme=tokyonight"/>
 </p>
+## 📊 3D Contribution Graph
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szeeshanZ123&theme=github_dark)
 ---
 ## 📈 GitHub Activity
 
