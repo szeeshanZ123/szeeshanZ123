@@ -58,10 +58,7 @@ Exploratory data analysis using Python, Pandas and visualization libraries.
 Interactive dashboard for business insights.
 
 ---
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/szeeshanZ123/szeeshanZ123/blob/output/github-contribution-grid-snake.svg)
-## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=szeeshanZ123&show_icons=true&theme=tokyonight"/>
