@@ -71,9 +71,7 @@ Interactive dashboard for business insights.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szeeshanZ123&theme=github_dark)
 ---
-## 📈 GitHub Activity
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=szeeshanZ123&theme=react-dark)
 
 ## 🌐 Connect With Me
 
