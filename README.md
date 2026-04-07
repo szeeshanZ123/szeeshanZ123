@@ -48,14 +48,24 @@ Exploring data, building modern web projects and learning new technologies.
 
 ## 📂 Featured Projects
 
+🚢 **Titanic Survival Prediction**
+Built a machine learning model to predict passenger survival using Logistic Regression, achieving ~81% accuracy.
+
+🌸 **Iris Flower Classification**
+Developed a classification model to identify iris species with 100% accuracy using machine learning techniques.
+
+📊 **Sales Prediction using Machine Learning**
+Created a Linear Regression model to predict sales based on advertising data, achieving an R² score of ~0.90.
+
 🚗 **BMW Website**
-Responsive website built using HTML, CSS and JavaScript.
+Designed a responsive website using HTML, CSS, and JavaScript with modern UI/UX principles.
 
 📊 **Customer Data Analysis**
-Exploratory data analysis using Python, Pandas and visualization libraries.
+Performed exploratory data analysis using Python, Pandas, and visualization libraries to extract meaningful insights.
 
 📈 **Power BI Dashboard**
-Interactive dashboard for business insights.
+Built an interactive dashboard to visualize business data and support data-driven decision-making.
+
 
 ---
 
