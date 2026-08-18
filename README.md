@@ -1,200 +1,343 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Zeeshan+Shaikh;Aspiring+Data+Analyst;Web+Development+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New+🚀" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Zeeshan Shaikh</h1>
+# 👋 Hi, I'm Zeeshan Shaikh
 
-<h3 align="center">
-💻 Aspiring Data Analyst | 📊 Data Science Learner | 🌐 Web Development Enthusiast
-</h3>
+### 📊 Aspiring Data Analyst | 🐍 Python Developer | 🤖 Data Science Learner
 
-<p align="center">
-Passionate about turning data into meaningful insights and building interactive web applications.
-I enjoy solving real-world problems through data analytics, visualization, and modern web technologies.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+📊;Building+Projects+with+Python+🐍;Exploring+Machine+Learning+🤖;Creating+Interactive+Dashboards+📈;Always+Learning+Something+New+🚀" />
 
----
+<br>
 
-# 🚀 About Me
+<a href="https://github.com/szeeshanZ123">
+<img src="https://img.shields.io/github/followers/szeeshanZ123?label=Followers&style=for-the-badge&logo=github">
+</a>
 
-🎓 B.Sc. Information Technology Graduate
+<a href="https://github.com/szeeshanZ123">
+<img src="https://img.shields.io/github/stars/szeeshanZ123?label=Stars&style=for-the-badge&logo=github">
+</a>
 
-📊 Aspiring **Data Analyst** with a passion for data visualization and business intelligence.
+<a href="https://www.linkedin.com/in/zeeshan-shaikh">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
-💻 Learning and building projects using **Python, SQL, Power BI, Excel, and JavaScript.**
-
-🌱 Currently improving my skills in:
-- Python
-- SQL
-- Power BI
-- Data Visualization
-- Machine Learning
-- JavaScript
-
-🎯 Goal:
-Become a professional **Data Analyst** and contribute to data-driven decision making.
+</div>
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 About Me
 
-## 💻 Programming Languages
+🎓 **B.Sc. Information Technology Graduate**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
+📊 Aspiring **Data Analyst** interested in transforming raw data into meaningful business insights.
+
+🐍 Building projects with **Python, Pandas, NumPy, SQL and Machine Learning**.
+
+📈 Creating interactive dashboards using **Power BI and Excel**.
+
+🌐 Exploring **Web Development** with HTML, CSS and JavaScript.
+
+🧠 Currently strengthening my knowledge of **Statistics, Data Analytics and Machine Learning**.
+
+🎯 **Career Goal:** Become a skilled Data Analyst and eventually grow into a Data Scientist.
+
+> 💡 I believe the best way to learn technology is to **build real projects, analyze real problems, and keep improving.**
 
 ---
 
-## 📊 Data Analytics
+# 🛠️ Tech Stack
 
-<p align="left">
+### 🐍 Programming & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css" />
+</p>
+
+### 📊 Data Analytics & Visualization
+
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
 <img src="https://img.icons8.com/color/48/power-bi.png"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
----
+### 🤖 Machine Learning
 
-## 🛠 Tools & Technologies
+<p>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+`Scikit-learn` • `Regression` • `Classification` • `Data Preprocessing` • `Feature Engineering` • `Model Evaluation`
+
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,flask" />
 </p>
 
 ---
 
 # 📂 Featured Projects
 
-## 📊 Academic Performance & Examination Intelligence System
+## 🎓 Academic Performance & Examination Intelligence System
 
-A data analytics dashboard built using Python and Flask that helps teachers analyze student performance, attendance, academic trends, and examination data.
+> A data-driven academic analytics system designed to help teachers and students understand academic performance.
 
-**Tech Used**
-- Python
-- Flask
-- Pandas
-- Matplotlib
-- HTML
-- Bootstrap
+### 🔥 Features
+
+* 👨‍🏫 Teacher Dashboard
+* 👨‍🎓 Student Performance Analysis
+* 📊 Semester-wise Performance
+* 📚 Subject-wise Analysis
+* 🕐 Attendance Analysis
+* 🔎 Student Search & Filtering
+* 📈 Performance Trends
+* 📑 Examination Analytics
+* 📊 Data Visualization
+
+### 🛠️ Tech Stack
+
+`Python` `Flask` `Pandas` `Matplotlib` `HTML` `Bootstrap`
+
+---
+
+## 🏋️ Fitness Goal Tracker
+
+> A Python-based application for setting fitness goals and tracking personal progress.
+
+### ✨ Features
+
+* 🎯 Goal Management
+* 📈 Progress Tracking
+* 📝 User Input Handling
+* 🧩 Modular Python Functions
+* 🖥️ Interactive Console Interface
+
+### 🛠️ Tech Stack
+
+`Python` `Functions` `Dictionaries` `Lists` `Control Flow`
 
 ---
 
 ## 📊 Food Delivery Analytics Dashboard
 
-Interactive Power BI dashboard analyzing sales, customers, restaurants, and delivery performance with insightful KPIs and visualizations.
+> Interactive Power BI dashboard designed to analyze food delivery business performance.
 
-**Tools**
-- Power BI
-- Excel
-- DAX
+### 📌 Analytics
+
+* 💰 Revenue Analysis
+* 🛵 Delivery Performance
+* 👥 Customer Analysis
+* 🍔 Cuisine Performance
+* 📍 City-wise Orders
+* 💳 Payment Mode Analysis
+* 📈 Sales Trends
+
+### 🛠️ Tools
+
+`Power BI` `DAX` `Excel`
 
 ---
 
 ## 🚢 Titanic Survival Prediction
 
-Machine Learning model that predicts passenger survival using Logistic Regression with approximately **81% accuracy**.
+> Machine Learning project predicting passenger survival using historical Titanic passenger data.
 
-**Tech Used**
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
+### 🧠 Model
+
+**Logistic Regression**
+
+### 📊 Performance
+
+Approximately **81% accuracy**
+
+### 🛠️ Tech Stack
+
+`Python` `Pandas` `Scikit-learn` `Matplotlib`
 
 ---
 
 ## 🌸 Iris Flower Classification
 
-Classification model for predicting Iris flower species using machine learning.
+> Machine Learning classification project that predicts Iris flower species from flower measurements.
 
-**Tech Used**
-- Python
-- Scikit-learn
+### 🛠️ Tech Stack
+
+`Python` `Pandas` `Scikit-learn` `Matplotlib`
 
 ---
 
-## 📈 Sales Prediction using Machine Learning
+## 📈 Sales Prediction
 
-Linear Regression model for predicting product sales based on advertising expenditure.
+> Regression-based Machine Learning project for predicting sales based on advertising expenditure.
 
-**Tech Used**
-- Python
-- Pandas
-- Scikit-learn
+### 🛠️ Tech Stack
+
+`Python` `Pandas` `Scikit-learn` `Linear Regression`
 
 ---
 
 ## 🚗 BMW Landing Page
 
-Responsive modern website built using HTML, CSS, and JavaScript with attractive animations and UI.
+> Modern responsive BMW-inspired landing page created using frontend technologies.
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
 ## ⚡ Hall of Magical Innovations
 
-Harry Potter themed interactive website built using HTML, CSS, JavaScript and Firebase.
+> Interactive Harry Potter-inspired project platform created for showcasing student innovations.
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript` `Firebase`
 
 ---
 
-# 📈 GitHub Statistics
+# 📚 Currently Learning
 
-<p align="center">
+```text
+Python
+  ├── Pandas
+  ├── NumPy
+  ├── Matplotlib
+  └── Data Analysis
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=szeeshanZ123&show_icons=true&theme=tokyonight"/>
+SQL
+  ├── Queries
+  ├── Joins
+  ├── Aggregations
+  └── Data Analysis
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szeeshanZ123&layout=compact&theme=tokyonight"/>
+Data Analytics
+  ├── EDA
+  ├── Data Cleaning
+  ├── Statistics
+  └── Data Visualization
 
-</p>
+Machine Learning
+  ├── Preprocessing
+  ├── Regression
+  ├── Classification
+  ├── Feature Engineering
+  └── Model Evaluation
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=szeeshanZ123&theme=tokyonight"/>
-</p>
+Business Intelligence
+  ├── Power BI
+  ├── DAX
+  └── Dashboard Design
+```
 
 ---
 
-# 📊 Contribution Graph
+# 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szeeshanZ123&theme=github_dark"/>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=szeeshanZ123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szeeshanZ123&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=szeeshanZ123&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szeeshanZ123&theme=github_dark" />
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=szeeshanZ123&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=szeeshanZ123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" />
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🎯 My Learning Journey
 
-📧 **Email**
-> **shaikhzeeshan7554@gmail.com**
+```text
+Python
+   ↓
+Data Analysis
+   ↓
+SQL + Excel
+   ↓
+Statistics
+   ↓
+Power BI
+   ↓
+Machine Learning
+   ↓
+Data Science 🚀
+```
 
-💼 **LinkedIn**
-> https://www.linkedin.com/in/zeeshan-shaikh
-
-🐙 **GitHub**
-> https://github.com/szeeshanZ123
+> Building projects at every step of the journey.
 
 ---
 
-<p align="center">
+# 🌐 Let's Connect
 
-<img src="https://komarev.com/ghpvc/?username=szeeshanZ123&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<div align="center">
 
-</p>
+### 💼 LinkedIn
+
+<a href="https://www.linkedin.com/in/zeeshan-shaikh">
+<img src="https://img.shields.io/badge/LinkedIn-Zeeshan%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+### 🐙 GitHub
+
+<a href="https://github.com/szeeshanZ123">
+<img src="https://img.shields.io/badge/GitHub-szeeshanZ123-181717?style=for-the-badge&logo=github">
+</a>
+
+### 📧 Email
+
+<a href="mailto:shaikhzeeshan7554@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</div>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+# 👀 Profile Views
 
-<p align="center">
-<i>"Keep Learning • Keep Building • Keep Growing 🚀"</i>
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=szeeshanZ123&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Keep Learning. Keep Building. Keep Growing.
+
+**"Every project is another step toward becoming better."**
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+</div>
+
