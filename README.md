@@ -292,7 +292,7 @@ Data Science 🚀
 
 ### 💼 LinkedIn
 
-<a href="https://www.linkedin.com/in/zeeshan-shaikh">
+<a href="https://www.linkedin.com/in/zeeshan-shaikh-6b3a753a1/">
 <img src="https://img.shields.io/badge/LinkedIn-Zeeshan%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
