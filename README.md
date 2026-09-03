@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-🎓 **B.Sc. Information Technology Graduate**
+🎓  **Pursuing B.Sc. in Information Technology**
 
 📊 Aspiring **Data Analyst** interested in transforming raw data into meaningful business insights.
 
