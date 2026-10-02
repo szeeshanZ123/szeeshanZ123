@@ -79,9 +79,32 @@
 
 # 📂 Featured Projects
 
+## 👁️ Vision Lens — AI Visual Assistant
+
+> An AI-powered visual assistance system designed to help elderly and visually impaired users understand their surroundings through camera-based AI and voice guidance.
+
+### 🔥 Features
+
+* 📷 Computer Vision & Image Analysis
+* 🤖 AI-powered visual understanding
+* 🗣️ Voice-based assistance
+* 🧭 Direction & Distance Guidance
+* 🔍 Real-time Object & Environment Understanding
+* ♿ Accessibility-focused Design
+* 📱 Web & Mobile Support
+
+### 🛠️ Tech Stack
+
+`Python` `Computer Vision` `Google Gemini API` `AI` `JavaScript` `HTML` `CSS` `Vercel`
+
+🔗 **[Live Demo / Download](https://visionlens-gamma.vercel.app/download)**
+
+
+---
+
 ## 🎓 Academic Performance & Examination Intelligence System
 
-> A data-driven academic analytics system designed to help teachers and students understand academic performance.
+> A data-driven academic analytics and machine learning system designed to help teachers and students understand, monitor, and improve academic performance.
 
 ### 🔥 Features
 
@@ -94,10 +117,37 @@
 * 📈 Performance Trends
 * 📑 Examination Analytics
 * 📊 Data Visualization
+* 🤖 Machine Learning-based Academic Analysis
+* ⚠️ Academic Risk Identification
 
 ### 🛠️ Tech Stack
 
-`Python` `Flask` `Pandas` `Matplotlib` `HTML` `Bootstrap`
+`Python` `Flask` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Machine Learning` `HTML` `CSS` `Bootstrap`
+
+🔗 **[Live Demo](https://academic-performance-examination-in.vercel.app/login)**
+
+
+---
+
+## 💼 Vyapar — Business Management System
+
+> A business management application currently under development, focused on simplifying day-to-day business operations, sales, inventory, and financial tracking.
+
+### 🚧 Planned Features
+
+* 📦 Product & Inventory Management
+* 💰 Sales & Expense Tracking
+* 👥 Customer Management
+* 🧾 Transaction Management
+* 📊 Business Analytics
+* 📈 Business Performance Insights
+
+### 🛠️ Tech Stack
+
+`Python` `Flask` `HTML` `CSS` `JavaScript` `Database`
+
+**🚧 Status:** Currently in Development
+
 
 ---
 
@@ -116,6 +166,7 @@
 ### 🛠️ Tech Stack
 
 `Python` `Functions` `Dictionaries` `Lists` `Control Flow`
+
 
 ---
 
@@ -137,6 +188,7 @@
 
 `Power BI` `DAX` `Excel`
 
+
 ---
 
 ## 🚢 Titanic Survival Prediction
@@ -153,7 +205,8 @@ Approximately **81% accuracy**
 
 ### 🛠️ Tech Stack
 
-`Python` `Pandas` `Scikit-learn` `Matplotlib`
+`Python` `Pandas` `Scikit-learn` `Matplotlib` `Machine Learning`
+
 
 ---
 
@@ -163,7 +216,8 @@ Approximately **81% accuracy**
 
 ### 🛠️ Tech Stack
 
-`Python` `Pandas` `Scikit-learn` `Matplotlib`
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Machine Learning`
+
 
 ---
 
@@ -173,7 +227,8 @@ Approximately **81% accuracy**
 
 ### 🛠️ Tech Stack
 
-`Python` `Pandas` `Scikit-learn` `Linear Regression`
+`Python` `Pandas` `Scikit-learn` `Linear Regression` `Machine Learning`
+
 
 ---
 
@@ -183,7 +238,8 @@ Approximately **81% accuracy**
 
 ### 🛠️ Tech Stack
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `Responsive Design`
+
 
 ---
 
@@ -194,8 +250,6 @@ Approximately **81% accuracy**
 ### 🛠️ Tech Stack
 
 `HTML` `CSS` `JavaScript` `Firebase`
-
----
 
 # 📚 Currently Learning
 
